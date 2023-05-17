@@ -25,3 +25,5 @@ void mahasiswa::printAll() {
 	cout << endl;
 
 }
+
+int mahasiswa::nim = 0;
